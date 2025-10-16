@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello, I'm Andy!
 
-<!--
-**CookAndy96/CookAndy96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently
+- 🔭 Tutor @ Teaching Personnel
+- 🌱 Studying game development
+- 🤔 Working on my second journal publication
+- 📫 How to reach me: andrewwscook96@gmail.com
 
-Here are some ideas to get you started:
+## Publications:
+_The halo mass dependence of the physical and observable properties of the circumgalactic medium at $$z=0$$_ | Authors: Andrew W.S. Cook, Freeke van de Voort, Rüdiger Pakmor, Robert J.J. Grand | DOI: 10.1093/mnras/staf1537
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education:
+
+PhD Computational Astrophysics @ Cardiff University
+Postgraduate Certificate of Education (PGCE) @ The University of Portsmouth
+MPhys Physics, Astrophysics and Cosmology @ The University of Portsmouth
