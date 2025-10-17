@@ -1,7 +1,7 @@
 # Hello, I'm Andy!
 
 Currently
-- 🔭 Tutor @ Teaching Personnel
+- 🔭 Educational Game Develop @ Cardiff Uni
 - 🌱 Studying game development
 - 🤔 Working on my second journal publication
 - 📫 How to reach me: andrewwscook96@gmail.com
