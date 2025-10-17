@@ -11,6 +11,6 @@ _The halo mass dependence of the physical and observable properties of the circu
 
 ## Education:
 
-PhD Computational Astrophysics @ Cardiff University\\
-Postgraduate Certificate of Education (PGCE) @ The University of Portsmouth\\
+PhD Computational Astrophysics @ Cardiff University\
+Postgraduate Certificate of Education (PGCE) @ The University of Portsmouth\
 MPhys Physics, Astrophysics and Cosmology @ The University of Portsmouth
