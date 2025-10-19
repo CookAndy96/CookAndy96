@@ -20,6 +20,6 @@ MPhys Physics, Astrophysics and Cosmology @ The University of Portsmouth | 2019
 
 ## Teaching:
 
-Lecture Assistant @ Cardiff University - 2020-2024
-Teacher Training @ University of Portsmouth - 2019-2020
+Lecture Assistant @ Cardiff University - 2020-2024\
+Teacher Training @ University of Portsmouth - 2019-2020\
 Science Communicator @ University of Portsmouth - 2015-2019
