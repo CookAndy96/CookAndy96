@@ -10,7 +10,7 @@ My name is Andrew Cook. I am an astronomer, having recently completed my PhD in 
 - 📫 How to reach me: andrewwscook96@gmail.com
 
 ## Publications:
-_The halo mass dependence of the physical and observable properties of the circumgalactic medium at $$z=0$$_ | Authors: Andrew W.S. Cook, Freeke van de Voort, Rüdiger Pakmor, Robert J.J. Grand | DOI: 10.1093/mnras/staf1537
+_The halo mass dependence of the physical and observable properties of the circumgalactic medium at z=0_ | Authors: Andrew W.S. Cook, Freeke van de Voort, Rüdiger Pakmor, Robert J.J. Grand | DOI: 10.1093/mnras/staf1537
 
 ## Education:
 
