@@ -4,7 +4,7 @@
 My name is Andrew Cook. I am an astronomer, having recently completed my PhD in Astrophysics at Cardiff University. I am an analyst of the Auriga suite of cosmological simulations and public communicator for anything astronomy related. Here you will be able to find my analysis scripts and programming projects.
 
 ## Currently
-- 🔭 Educational Game Developer @ Cardiff Uni
+- 🔭 Teacher of Science
 - 🌱 Studying game development
 - 🤔 Working on my second journal publication
 - 📫 How to reach me: andrewwscook96@gmail.com
@@ -20,6 +20,7 @@ MPhys Physics, Astrophysics and Cosmology @ The University of Portsmouth | 2019
 
 ## Teaching:
 
+Teacher of Science @ The Petersfield School | 2026-2027
 Lecture Assistant @ Cardiff University | 2020-2024\
 Teacher Training @ University of Portsmouth | 2019-2020\
 Science Communicator @ University of Portsmouth | 2015-2019
